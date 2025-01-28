@@ -1,0 +1,7 @@
+{
+  "name": "Wallpaper Hub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
